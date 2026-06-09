@@ -1,0 +1,18 @@
+# PlatformIO build output
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE / tooling
+.vscode/
+.clang_complete
+.gcc-flags.json
+.claude/
+
+# OS / OneDrive-Syncthing junk
+*.sync-conflict-*
+*.old
+
+# Secrets — real values, never commit (templates: *.example.*)
+secrets.h
+**/secrets.h
