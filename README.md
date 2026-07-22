@@ -1,4 +1,6 @@
 # Duco RF Gateway + Power Monitor
+<img width="1536" height="2048" alt="IMG_3045" src="https://github.com/user-attachments/assets/d4b622b8-64a8-4c61-8cb4-507fd8248ca3" />
+
 
 An ESP8266 (Wemos D1 Mini) firmware that tries to **join and control a Duco
 Silent ventilation unit over its 868 MHz RF link** (CC1101 radio), while
