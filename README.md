@@ -50,6 +50,7 @@ display shows live wattage.
 | Phototransistor (ADC) | A0 | — |
 
 ## How it works
+<img width="2160" height="3840" alt="5A009B2B-4272-4DF9-BD02-02433DA3A89B" src="https://github.com/user-attachments/assets/6d2d32ec-ccfc-4392-aaab-bbf4dcfaea32" />
 
 - **CC1101 / Duco RF.** Radio tuned to **868.326 MHz**, GFSK, 38.38 kBaud,
   variable-length packets with CRC — the Duco air parameters. A 3-slot
