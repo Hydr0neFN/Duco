@@ -1,3 +1,5 @@
+**English** · [繁體中文](README.zh-TW.md)
+
 # Duco RF Gateway + Power Monitor
 <img width="1536" height="2048" alt="IMG_3045" src="https://github.com/user-attachments/assets/d4b622b8-64a8-4c61-8cb4-507fd8248ca3" />
 
